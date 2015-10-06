@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">自动安装服务</string>
+    <string name="install">安装</string>
+    <string name="next">下一步</string>
+    <string name="open">打开</string>
+    <string name="cancel">取消</string>
+    <string name="done">完成</string>
+    <string name="text">包</string>
+
+</resources>

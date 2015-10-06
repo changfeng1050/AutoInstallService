@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoInstallService</string>
+    <string name="install">Install</string>
+    <string name="next">Next</string>
+    <string name="open">Open</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+
+    <string name="text">package</string>
+</resources>
