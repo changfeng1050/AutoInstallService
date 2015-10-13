@@ -6,5 +6,6 @@
     <string name="cancel">取消</string>
     <string name="done">完成</string>
     <string name="text">包</string>
+    <string name="app_not_installed">应用未安装</string>
 
 </resources>

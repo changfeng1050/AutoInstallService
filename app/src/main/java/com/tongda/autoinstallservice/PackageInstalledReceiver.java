@@ -31,6 +31,7 @@ public class PackageInstalledReceiver extends BroadcastReceiver{
                 PackageManager pm = context.getPackageManager();
                 Intent i = pm.getLaunchIntentForPackage(packageName);
                 if (i != null) {
+                    i.putExtra("install_result", "success");
                     context.startActivity(i);
                     Toast.makeText(context,"start app " + packageName, Toast.LENGTH_SHORT).show();
                 } else {

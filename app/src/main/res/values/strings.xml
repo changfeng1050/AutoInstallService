@@ -7,4 +7,5 @@
     <string name="done">Done</string>
 
     <string name="text">package</string>
+    <string name="app_not_installed">App not installed</string>
 </resources>
